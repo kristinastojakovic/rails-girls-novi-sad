@@ -54,7 +54,7 @@ p {
     z-index: 99999999;
     color: #fff;
     padding: 10px 10px;
-    background-color: #006699;
+    background-color: #900009;
     border: none;
     font-weight: bold;
     display:none;
@@ -66,7 +66,7 @@ p {
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
-    color: #93FAFF;
+    color: #ff0000;
 }
 .fixed-header ul{
     padding:0;
@@ -87,7 +87,7 @@ p {
 .fixed-header ul li a:hover,
 .fixed-header ul li .current{
     color: #93FAFF;
-    border-top:2px solid #93FAFF;
+    border-top:2px solid #ff0000;
 }
 .fixed-header {
     background: transparent;
@@ -164,7 +164,7 @@ p {
 .dark-blue-bordered-btn:hover,
 .dark-blue-bordered-btn:focus,
 .dark-blue-btn {
-    background: #006699;
+    background: #990000;
     color: white;    
 }
 .dark-blue-btn:hover,
