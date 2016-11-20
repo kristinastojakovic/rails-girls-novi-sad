@@ -53,16 +53,15 @@ http://www.templatemo.com/tm-477-puzzle
            <img src="images/2.jpg" alt="Image" class="tm-image">
        </div>
        <div class="col-lg-6 col-md-6 col-md-pull-6 content-item background flexbox">
-           <h2 class="section-title">Quility Services</h2>
-           <p class="section-text">Morbi auctor tristique mattis. Vestibulum vitae sapien a ligula mollis ullamcorper ac a nisi. Ut a dignissim est, sodales pellentesque purus. Pellentesque porttitor ante at nulla ornare, eget sagittis sapien pulvinar. In semper mi ut enim mollis, ut auctor lectus posuere.</p>
+           <h2 class="section-title">Prethodni RGNS događaji</h2>
+           <p class="section-text">U Novom Sadu su do sada uspešno održane četiri Rails Girls radionice:</p>
            <ul class="dark-blue-text">
-               <li>+ Cras id dui eu tortor eleifend gravida</li>
-               <li>+ Maecenas tempus nisi in arcu</li>
-               <li>+ Nulla eget sem sit amet turpis tempus</li>
-               <li>+ Crasvel eros id ipsum accumsan</li>
+               <li><a href="./novisad-01-2015.html">24. i 25. januar 2015.</a></li>
+               <li><a href="./novisad-06-2015.html">13. i 14. jun 2015.</a></li>
+               <li><a href="./novisad-12-2015.html">5. i 6. decembar 2015.</a></li>
+               <li><a href="./novisad-06-2016.html">25. i 26. jun 2016.</a></li>
            </ul>
-           <p>Nulla odio nunc, rhoncus quis porttitor quis, convallis sed tortor. Quisque dui mews, euismod vel sapien at, maximus feugiat tellus. </p>
-           <p>Curabitur vel rutrum augue, id tristique diam. Sed imperdiet quis ipsum a vulputate. Suspendisse sit amet nibh mi. </p>
+           <p>Na sledećem <a href="https://www.youtube.com/watch?v=bGOEs_IRrFs">linku</a> možete pogledati kako je izgledala jedna od prethodnih Rails Girls NS radionica.</p>
        </div>
 
    </section>
