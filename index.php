@@ -86,13 +86,14 @@ http://www.templatemo.com/tm-477-puzzle
    </section>
 
 <footer class="col-md-12 content" id="externals">
- <div class="col-lg-6 col-md-6 last">
-   <img src="images/5.png" alt="Image" class="tm-image">
-</div>
+
 <div class="col-lg-6 col-md-6 background last about-text-container">
    <h2 class="section-title">Kontakt</h2>
    <p class="about-text">Kontaktirajte nas putem e-mail-a <a href="mailto:railsgirlsnovisad@gmail.com">railsgirlsnovisad@gmail.com</a>, <a href="https://twitter.com/RailsGirlsNS">Twitter</a>-a ili <a href="https://www.facebook.com/RailsGirlsNoviSad">Facebook</a> stranice.</p>       
 </div>
+ <div class="col-lg-6 col-md-6 last">
+   <img src="images/5.png" alt="Image" class="tm-image">
+</div>	
 </footer>
 
 </div>
