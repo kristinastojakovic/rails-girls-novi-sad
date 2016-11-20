@@ -54,7 +54,7 @@ p {
     z-index: 99999999;
     color: #fff;
     padding: 10px 10px;
-    background-color: #900009;
+    background-color: #990000;
     border: none;
     font-weight: bold;
     display:none;
@@ -400,7 +400,7 @@ p {
         top: 8px;
     }
     .navbar-toggle .icon-bar {
-        background-color: #006699;
+        background-color: #990000;
     }
     
     .fixed-header ul li a:hover, 
@@ -415,7 +415,7 @@ p {
     }
     .main-menu ul {
         width: 100%;
-        background-color: #023D69;
+        background-color: #ff0000;
     }
     .main-menu {
         max-height: 0;
