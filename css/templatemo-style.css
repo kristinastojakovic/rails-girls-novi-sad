@@ -86,7 +86,7 @@ p {
 }
 .fixed-header ul li a:hover,
 .fixed-header ul li .current{
-    color: #93FAFF;
+    color: #ff0000;
     border-top:2px solid #ff0000;
 }
 .fixed-header {
