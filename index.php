@@ -27,10 +27,10 @@ http://www.templatemo.com/tm-477-puzzle
             <nav class="main-menu">
                 <ul>
                     <li><a href="#home">Šta je RGNS?</a></li>
-                    <li><a href="#services">RGNS #5</a></li>
-                    <li><a href="#clients">RGNS Tim</a></li>
-                    <li><a class="external" href="https://www.facebook.com/templatemo" target="_blank">External</a></li>
-                    <li><a href="#contact">Sponzori</a></li>
+                    <li><a href="#services">Prethodni događaji</a></li>
+                    <li><a href="#clients">Sponzori</a></li>
+                    <li><a class="external" href="https://www.facebook.com/RailsGirlsNoviSad" target="_blank">fb</a></li>
+                    <li><a href="#contact">RGNS Tim</a></li>
                 </ul>
             </nav>
         </div>
