@@ -30,7 +30,7 @@ http://www.templatemo.com/tm-477-puzzle
                     <li><a href="#services">Događaji</a></li>
                     <li><a href="#clients">Sponzori</a></li>
                     <li><a class="external" href="https://railsgirls.com/novisad" target="_blank">Spoljni</a></li>
-                    <li><a href="#contact">Kontakt</a></li>
+                    <li><a href="#externals">Kontakt</a></li>
                 </ul>
             </nav>
         </div>
@@ -84,50 +84,6 @@ http://www.templatemo.com/tm-477-puzzle
            </div>             
        </div>
    </section>
-
-
-   <section class="col-md-12 content" id="contact">
-       <div class="col-lg-6 col-md-6 col-md-push-6 content-item">
-           <img src="images/4.jpg" alt="Image" class="tm-image">
-       </div>
-       <div class="col-lg-6 col-md-6 col-md-pull-6 content-item background flexbox">
-           <h2 class="section-title">Contact Us</h2>
-           <p class="margin-b-25">Nulla eget sem sit amet turpis tempus viverra at et odio. Cras vel eros id ipsum accumsan venenatis ut nec ipsum.</p>
-
-           <!--<div class="row"> -->
-           <form method="post" name="contact-form" class="contact-form">
-            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                <div class="form-group">
-                    <input name="name" type="text" class="form-control" id="name" placeholder="Your Name..." required>
-                </div>    
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 pad-l-3">
-                <div class="form-group contact-field">
-                    <input name="email" type="email" class="form-control" id="email" placeholder="Your Email..." required>
-                </div>    
-            </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <div class="form-group contact-field">
-                    <input name="subject" type="text" class="form-control" id="subject" placeholder="Your Subject..." required>
-                </div>    
-            </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <div class="form-group contact-field">
-                    <textarea name="message" rows="5" class="form-control" id="message" placeholder="Write your message..." required></textarea>
-                </div>    
-            </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <div class="form-group margin-b-0">
-                    <button type="submit" id="form-submit" class="btn no-bg btn-contact">Submit</button>
-                </div>    
-            </div>
-        </form>
-        <!--</div> -->
-        <div id="msgSubmit" class="h3 text-center hidden">Message Submitted!</div>
-
-    </div>
-
-</section>
 
 <footer class="col-md-12 content" id="externals">
  <div class="col-lg-6 col-md-6 last">
