@@ -27,9 +27,9 @@ http://www.templatemo.com/tm-477-puzzle
             <nav class="main-menu">
                 <ul>
                     <li><a href="#home">Šta je RGNS?</a></li>
-                    <li><a href="#services">Prethodni događaji</a></li>
+                    <li><a href="#services">Događaji</a></li>
                     <li><a href="#clients">Sponzori</a></li>
-                    <li><a class="external" href="https://www.facebook.com/RailsGirlsNoviSad" target="_blank">fb</a></li>
+                    <li><a class="external" href="https://www.facebook.com/RailsGirlsNoviSad" target="_blank">facebook</a></li>
                     <li><a href="#contact">RGNS Tim</a></li>
                 </ul>
             </nav>
@@ -134,8 +134,8 @@ http://www.templatemo.com/tm-477-puzzle
    <img src="images/5.png" alt="Image" class="tm-image">
 </div>
 <div class="col-lg-6 col-md-6 background last about-text-container">
-   <h2 class="section-title">About This Website</h2>
-   <p class="about-text">Puzzle Template is brought to you by templatemo. Sed imperdiet quis ipsum a vulputate. Suspendisse sit amet nibh mi. In quis sapien a metus interdum hendrerit.</p>       
+   <h2 class="section-title">Kontakt</h2>
+   <p class="about-text">Kontaktirajte nas putem e-mail-a <a href="mailto:railsgirlsnovisad@gmail.com">railsgirlsnovisad@gmail.com</a>, <a href="https://twitter.com/RailsGirlsNS">Twitter</a>-a ili <a href="https://www.facebook.com/RailsGirlsNoviSad">Facebook</a> stranice.</p>       
 </div>
 </footer>
 
