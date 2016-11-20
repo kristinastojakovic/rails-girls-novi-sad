@@ -156,10 +156,10 @@ p {
     margin-bottom: 25px;
 }
 .dark-blue-text {
-    color: #006699;
+    color: #990000;
 }
 .light-blue-text {
-    color: #2FACFF;
+    color: #ff0000;
 }
 .dark-blue-bordered-btn:hover,
 .dark-blue-bordered-btn:focus,
@@ -171,8 +171,8 @@ p {
 .dark-blue-btn:focus,
 .dark-blue-bordered-btn {
     background: none;
-    border: 1px solid #006699;
-    color: #006699;
+    border: 1px solid #990000;
+    color: #990000;
 }
 .section-text {
     line-height: 1.6;
