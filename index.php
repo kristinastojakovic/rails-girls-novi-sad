@@ -22,7 +22,7 @@ http://www.templatemo.com/tm-477-puzzle
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>                        
                 </button>
-                <a class="navbar-brand" href="#">Rails Girls Novi Sad</a>
+                <a class="navbar-brand" href="#home">Rails Girls Novi Sad</a>
             </div>
             <nav class="main-menu">
                 <ul>
