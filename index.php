@@ -28,7 +28,7 @@ http://www.templatemo.com/tm-477-puzzle
                 <ul>
                     <li><a href="#home">Šta je RGNS?</a></li>
                     <li><a href="#services">Događaji</a></li>
-                    <li><a href="#clients">Sponzori</a></li>
+                    <li><a href="#clients">FAQs</a></li>
                     <li><a class="external" href="https://railsgirls.com/novisad" target="_blank">Spoljni</a></li>
                     <li><a href="#externals">Kontakt</a></li>
                 </ul>
@@ -72,16 +72,22 @@ http://www.templatemo.com/tm-477-puzzle
            <img src="images/3.jpg" alt="Image" class="tm-image">
        </div>
        <div class="col-lg-6 col-md-6 content-item background flexbox">
-           <h2 class="section-title">Our Clients</h2>
-           <p>Maecenas tempus nisi in arcu facilisis venenatis. Fusce ac turpis sem. Nulla eget sem sit amet turpis tempus viverra at et odio. Crasvel eros id ipsum accumsan venenatis ut nec ipsum. </p>
-           <p>Nulla odio nunc, rhoncus quis porttitor quis, convallis sed tortor. Quisque dui metus, euismod vel sapien at, maximus feugiat tellus. </p>
-           <p>Curabitur vel rutrum augue, id tristique diam. Sed imperdiet quis ipsum a vulputate. Suspendisse sit amet nibh mi. In quis sapien a metus interdum hendrerit. </p>
-           <p>Ut a dignissim est, sodales pellentesque purus. Pellentesque porttitor ante at nulla ornare, eget sagittis sapien pulvinar.</p>
-           <div>
-               <button type="button" class="btn dark-blue-bordered-btn normal-btn">Small Button</button>
-               <button type="button" class="btn yellow-btn normal-btn">Download</button>
-               <button type="button" class="btn green-btn normal-btn">Demo</button>    
-           </div>             
+	       <h2 class="section-title">Često postavljana pitanja</h2>
+		<p>
+			<strong>Koliko košta učešće na radionici?</strong>
+			<br/>
+			Učešće na radionici je potpuno besplatno!
+		</p>
+		<p>
+			<strong>Ko sve može da se prijavi?</strong>
+			<br/>
+			Devojke i žene svih uzrasta i zanimanja. Potrebno je samo imati laptop, koji ćete poneti, i osnovno znanje o korišćenju računara.
+		</p>   
+		<p>
+			<strong>Znam da programiram, kako mogu da pomognem?</strong>
+			<br/>
+			Ukoliko imate želju da se pridružite našem mentorskom timu, <a href="mailto:railsgirlsnovisad@gmail.com">pišite nam</a>.
+		</p>             
        </div>
    </section>
 
