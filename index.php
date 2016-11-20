@@ -42,7 +42,7 @@ http://www.templatemo.com/tm-477-puzzle
                <img src="images/1.jpg" alt="Image" class="tm-image">
            </div>
            <div class="col-lg-6 col-md-6 content-item content-item-1 background">
-               <h2 class="section-title text-center dark-blue-text">Šta je Rails Girls Novi Sad?</h2>
+               <h2 class="section-title text-center dark-red-text">Šta je Rails Girls Novi Sad?</h2>
                <p>Rails Girls Novi Sad je deo globalne inicijative koja ima za cilj da približi IT svet ženama i osnaži njihovo interesovanje za aktivnu izgradnju web-a. <i>Ruby on Rails	</i> je platforma uz pomoć koje se web aplikacije mogu brzo razvijati, a zasnovana je na programskom jeziku Ruby.<p>
 				</p>Tokom dvodnevne radionice imaćete priliku da se upoznate sa prvim koracima pravljenja web aplikacija. Nije neophodno imati predznanje, potreban je samo laptop, interesovanje i želja da se malo slobodnog vremena odvoji na neformalno učenje početnog nivoa programiranja. I sve to u prijateljskom okruženju u malim grupama, potpuno besplatno i u pozitivnoj volonterskoj atmosferi.<p/>
            </div>
@@ -55,7 +55,7 @@ http://www.templatemo.com/tm-477-puzzle
        <div class="col-lg-6 col-md-6 col-md-pull-6 content-item background flexbox">
            <h2 class="section-title">Prethodni RGNS događaji</h2>
            <p class="section-text">U Novom Sadu su do sada uspešno održane četiri Rails Girls radionice:</p>
-           <ul class="dark-blue-text">
+           <ul class="dark-red-text">
                <li><a href="./novisad-01-2015.html">24. i 25. januar 2015.</a></li>
                <li><a href="./novisad-06-2015.html">13. i 14. jun 2015.</a></li>
                <li><a href="./novisad-12-2015.html">5. i 6. decembar 2015.</a></li>
