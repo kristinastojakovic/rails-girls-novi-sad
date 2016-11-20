@@ -106,7 +106,7 @@ http://www.templatemo.com/tm-477-puzzle
 
 <div class="text-center footer">
 	<div class="container">
-		Copyright @ 2015 Company Name
+		Copyright @ 2016 Rails Girls Novi Sad
     </div>
 </div>
 
