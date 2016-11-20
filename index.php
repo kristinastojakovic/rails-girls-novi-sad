@@ -29,8 +29,8 @@ http://www.templatemo.com/tm-477-puzzle
                     <li><a href="#home">Šta je RGNS?</a></li>
                     <li><a href="#services">Događaji</a></li>
                     <li><a href="#clients">Sponzori</a></li>
-                    <li><a class="external" href="https://www.facebook.com/RailsGirlsNoviSad" target="_blank">facebook</a></li>
-                    <li><a href="#contact">RGNS Tim</a></li>
+                    <li><a class="external" href="https://railsgirls.com/novisad" target="_blank">Spoljni</a></li>
+                    <li><a href="#contact">Kontakt</a></li>
                 </ul>
             </nav>
         </div>
